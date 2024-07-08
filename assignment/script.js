@@ -1,3 +1,4 @@
+//ASSIGNMENT
 // Function to get the values from the input fields
 function getInputValues() {
     const num1 = parseFloat(document.getElementById('num1').value);
